@@ -99,6 +99,12 @@ nav a {
     /* color: #FD6E0A; */
 }
 
+/* main seciton */
+main {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
 .banner-description {
     width: 500px;
 }
@@ -109,4 +115,18 @@ nav a {
     border-radius: 10px;
     background: #FFF8F3;
     margin: 130px 0;
+    color: #757575
+}
+.about-info-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.about-info {
+    text-align: center;
+}
+
+.info-title {
+    margin: -10px 0;
 }
