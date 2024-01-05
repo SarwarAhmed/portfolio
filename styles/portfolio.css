@@ -130,3 +130,8 @@ main {
 .info-title {
     margin: -10px 0;
 }
+
+/* what i do section */
+#what-i-do-description {
+    padding: 30px 150px;
+}
